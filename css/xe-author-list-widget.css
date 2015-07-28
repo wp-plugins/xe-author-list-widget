@@ -1,0 +1,6 @@
+.xe-author-list:after { content: ""; clear: both; display: block; }
+.xe-author-list li { float: left; display: inline;  margin: 0 0 15px 0;}
+.xe-author-list li img { box-shadow: none;}
+.xe-author-list li a img  { display: block;}
+.xe-author-list li .xe-author-name { line-height: normal; text-decoration: none; text-align: center; display: block; padding: 9px 0;}
+.xe-author-list li .xe-author-name a { line-height: normal; text-decoration: none;}
